@@ -1,0 +1,2036 @@
+Ctrl+a h for help
+/u/c/s/cs537-2/ta/tools/qemu -nographic -hdb fs.img xv6.img -smp 1
+xv6...
+cpu0: starting
+init: starting sh
+str : addr 18d7 from pid 2 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 3 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 4 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 5 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 6 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 7 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 8 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 9 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 10 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 11 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 12 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 13 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 14 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 15 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 16 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 17 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 18 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 19 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 20 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 21 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 22 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 23 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 24 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 25 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 26 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 27 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 28 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 29 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 30 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 31 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 32 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 33 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 34 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 35 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 36 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 37 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 38 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 39 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 40 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 41 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 42 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 43 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 44 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 45 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 46 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 47 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 48 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 49 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 50 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 51 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 52 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 53 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 54 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 55 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 56 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 57 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 58 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 59 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 60 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 61 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 62 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 63 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 64 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 65 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 66 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 67 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 68 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 69 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 70 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 71 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 72 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 73 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 74 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 75 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 76 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 77 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 78 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 79 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 80 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 81 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 82 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 83 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 84 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 85 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 86 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 87 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 88 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 89 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 90 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 91 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 92 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 93 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 94 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 95 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 96 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 97 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 98 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 99 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 100 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 101 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 102 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 103 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 104 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 105 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 106 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 107 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 108 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 109 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 110 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 111 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 112 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 113 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 114 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 115 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 116 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 117 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 118 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 119 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 120 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 121 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 122 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 123 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 124 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 125 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 126 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 127 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 128 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 129 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 130 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 131 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 132 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 133 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 134 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 135 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 136 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 137 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 138 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 139 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 140 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 141 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 142 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 143 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 144 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 145 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 146 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 147 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 148 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 149 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 150 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 151 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 152 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 153 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 154 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 155 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 156 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 157 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 158 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 159 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 160 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 161 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 162 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 163 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 164 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 165 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 166 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 167 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 168 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 169 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 170 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 171 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 172 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 173 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 174 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 175 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 176 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 177 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 178 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 179 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 180 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 181 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 182 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 183 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 184 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 185 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 186 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 187 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 188 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 189 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 190 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 191 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 192 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 193 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 194 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 195 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 196 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 197 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 198 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 199 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 200 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 201 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 202 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 203 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 204 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 205 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 206 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 207 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 208 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 209 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 210 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 211 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 212 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 213 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 214 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 215 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 216 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 217 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 218 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 219 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 220 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 221 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 222 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 223 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 224 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 225 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 226 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 227 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 228 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 229 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 230 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 231 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 232 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 233 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 234 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 235 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 236 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 237 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 238 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 239 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 240 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 241 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 242 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 243 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 244 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 245 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 246 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 247 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 248 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 249 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 250 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 251 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 252 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 253 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 254 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 255 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 256 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 257 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 258 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 259 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 260 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 261 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 262 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 263 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 264 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 265 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 266 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 267 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 268 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 269 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 270 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 271 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 272 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 273 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 274 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 275 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 276 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 277 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 278 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 279 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 280 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 281 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 282 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 283 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 284 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 285 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 286 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 287 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 288 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 289 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 290 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 291 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 292 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 293 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 294 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 295 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 296 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 297 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 298 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 299 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 300 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 301 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 302 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 303 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 304 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 305 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 306 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 307 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 308 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 309 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 310 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 311 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 312 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 313 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 314 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 315 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 316 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 317 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 318 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 319 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 320 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 321 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 322 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 323 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 324 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 325 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 326 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 327 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 328 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 329 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 330 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 331 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 332 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 333 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 334 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 335 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 336 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 337 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 338 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 339 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 340 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 341 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 342 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 343 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 344 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 345 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 346 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 347 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 348 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 349 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 350 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 351 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 352 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 353 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 354 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 355 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 356 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 357 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 358 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 359 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 360 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 361 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 362 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 363 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 364 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 365 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 366 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 367 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 368 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 369 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 370 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 371 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 372 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 373 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 374 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 375 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 376 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 377 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 378 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 379 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 380 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 381 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 382 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 383 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 384 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 385 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 386 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 387 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 388 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 389 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 390 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 391 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 392 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 393 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 394 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 395 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 396 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 397 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 398 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 399 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 400 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 401 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 402 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 403 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 404 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 405 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 406 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 407 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 408 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 409 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 410 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 411 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 412 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 413 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 414 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 415 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 416 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 417 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 418 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 419 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 420 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 421 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 422 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 423 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 424 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 425 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 426 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 427 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 428 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 429 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 430 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 431 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 432 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 433 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 434 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 435 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 436 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 437 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 438 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 439 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 440 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 441 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 442 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 443 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 444 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 445 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 446 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 447 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 448 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 449 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 450 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 451 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 452 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 453 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 454 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 455 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 456 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 457 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 458 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 459 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 460 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 461 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 462 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 463 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 464 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 465 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 466 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 467 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 468 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 469 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 470 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 471 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 472 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 473 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 474 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 475 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 476 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 477 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 478 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 479 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 480 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 481 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 482 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 483 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 484 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 485 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 486 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 487 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 488 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 489 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 490 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 491 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 492 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 493 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 494 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 495 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 496 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 497 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 498 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 499 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 500 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 501 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 502 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 503 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 504 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 505 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 506 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 507 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 508 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 509 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 510 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 511 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 512 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 513 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 514 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 515 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 516 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 517 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 518 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 519 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 520 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 521 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 522 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 523 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 524 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 525 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 526 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 527 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 528 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 529 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 530 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 531 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 532 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 533 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 534 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 535 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 536 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 537 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 538 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 539 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 540 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 541 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 542 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 543 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 544 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 545 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 546 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 547 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 548 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 549 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 550 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 551 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 552 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 553 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 554 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 555 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 556 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 557 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 558 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 559 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 560 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 561 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 562 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 563 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 564 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 565 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 566 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 567 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 568 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 569 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 570 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 571 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 572 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 573 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 574 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 575 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 576 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 577 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 578 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 579 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 580 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 581 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 582 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 583 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 584 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 585 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 586 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 587 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 588 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 589 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 590 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 591 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 592 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 593 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 594 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 595 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 596 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 597 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 598 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 599 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 600 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 601 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 602 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 603 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 604 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 605 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 606 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 607 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 608 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 609 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 610 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 611 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 612 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 613 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 614 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 615 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 616 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 617 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 618 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 619 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 620 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 621 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 622 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 623 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 624 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 625 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 626 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 627 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 628 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 629 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 630 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 631 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 632 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 633 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 634 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 635 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 636 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 637 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 638 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 639 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 640 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 641 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 642 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 643 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 644 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 645 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 646 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 647 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 648 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 649 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 650 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 651 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 652 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 653 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 654 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 655 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 656 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 657 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 658 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 659 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 660 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 661 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 662 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 663 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 664 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 665 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 666 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 667 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 668 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 669 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 670 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 671 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 672 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 673 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 674 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 675 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 676 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 677 is illegal. 
+init: exec sh failed
+init: starting sh
+str : addr 18d7 from pid 678 is illegal. 
+init: exec sh failed
+init: start
